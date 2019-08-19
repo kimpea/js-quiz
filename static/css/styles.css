@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One&display=swap');
+
+html, body {
+    height: 100%;
+}
+
+.question {
+    font-weight: 600;
+}
+
+.answers {
+    margin-bottom: 1.5rem;
+}
+
+.answers label {
+    display: block;
+}
+
+h1 {
+    font-family: 'Patua One', cursive;
+    color: #B58900;
+}
