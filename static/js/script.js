@@ -111,6 +111,33 @@
                 c: "Warlock"
             },
             correctAnswer: "a"
+        },
+        {
+            question: "What is the smallest amount of money you can earn in the game?",
+            answers: {
+                a: "1 silver",
+                b: "1 copper",
+                c: "1 gold"
+            },
+            correctAnswer: "b"
+        },
+        {
+            question: "What is the first type of bandage that a First Aid profession can give?",
+            answers: {
+                a: "Linen",
+                b: "Wool",
+                c: "Runecloth"
+            },
+            correctAnswer: "a"
+        },
+        {
+            question: "At what level could a character get their first mount when the game first went on sale?",
+            answers: {
+                a: "60",
+                b: "30",
+                c: "40"
+            },
+            correctAnswer: "c"
         }
     ]
 
